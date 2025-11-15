@@ -1,1 +1,1 @@
-# Simple-Quiz-Website
+# Simple-Quiz-App
